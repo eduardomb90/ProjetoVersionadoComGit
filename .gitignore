@@ -454,4 +454,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 # Ignorar pasta .vscode
-.vscode
+.vscode/
